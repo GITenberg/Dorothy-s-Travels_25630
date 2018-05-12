@@ -19,6 +19,8 @@ creator:
 description: Dorothy, a foundling, takes a trip to Nova Scotia during summer vacation
   under the care of her teacher, Miss Greatorex, becoming lost in New York on her
   way, and she finds out her true identity upon her return.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25630#Dorothy-s-Travels
 gutenberg_issued: '2008-05-28'
 gutenberg_type: Text
 identifiers:
